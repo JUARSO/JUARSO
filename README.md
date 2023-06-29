@@ -1,8 +1,8 @@
-# 💫 About Me:
+# Sobre Mi:
 Estudiante de Ingeniería en Computadoras con habilidades sólidas en programación, desarrollo de arquitecturas y sistemas analógicos y digitales. Mentalidad de aprendizaje continuo y adaptabilidad a las últimas tecnologías.
 
 
-## 🌐 Socials:
+## Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juan-solis-58141a248) 
 
 # 💻 Tech Stack:
