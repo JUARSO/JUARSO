@@ -1,5 +1,5 @@
 # Sobre Mi:
-Ingeniero de Software apasionado por desarrollar soluciones eficientes y escalables, con experiencia en backend, automatización e integración de tecnologías[cite: 2, 3]. Mi perfil combina el desarrollo de arquitecturas robustas con tecnologías en la nube y soluciones IoT[cite: 4]. [cite_start]Actualmente estoy cursando una Maestría en Inteligencia Artificial para aplicar técnicas avanzadas en la resolución de problemas complejos[cite: 5, 56].
+Ingeniero de Software apasionado por desarrollar soluciones eficientes y escalables, con experiencia en backend, automatización e integración de tecnologías. Mi perfil combina el desarrollo de arquitecturas robustas con tecnologías en la nube y soluciones IoT.Actualmente estoy cursando una Maestría en Inteligencia Artificial para aplicar técnicas avanzadas en la resolución de problemas complejos.
 
 
 ## Social:
